@@ -1,0 +1,287 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+.main{
+    background-color:#0F0F0F ;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    
+    color: white;
+}
+.opt{
+    
+    margin-right: 5%;
+}
+a{
+width:50%;
+padding-left: 35px;
+
+}
+.border:hover{
+    color:white;
+    text-decoration: underline;
+    font-weight: 500;
+    font-size: 20px;
+    cursor: pointer;    
+}
+
+.logo{
+    background-image: url("logo-removebg-preview\ \(1\).png");
+    background-size: cover;
+    height: 40px;
+    width: 60px;
+    margin-left: 2%;
+    padding-bottom: 4px;   
+}
+.main2{
+    background-color: #232D3F;
+    height: 500px;
+    color: white;
+    text-align: center;
+}
+.h{
+    padding-top:100px ;
+    width: 15%;
+    margin-left: 10%;
+    font-size: 45px;
+   
+    
+}
+
+.hh{
+    display: flex;
+    padding-top:10px ;
+    width: 26%;
+    margin-left: 10%;
+    font-size: 45px;
+    padding-left: 10px;
+    
+}
+.p1{
+    padding-left: 15px;
+    color: #0F0F0F;
+}
+.hhh{
+    
+    padding-top:20px ;
+    width: 15%;
+    margin-left: 10%;
+    font-size: 30px;
+    width: 21%;  
+}
+button{
+   border-radius: 100px;
+    background-color: transparent;
+    height: 35px;
+    width: 120px;
+    color: white;
+    font-size: 18px;
+    margin-right:70%;
+    margin-top: 35px;
+    border: 1.5px solid white
+}
+button:hover{
+font-size:20px ;
+border: none;
+background-color: #0F0F0F;
+
+}
+
+.image{
+    background-image: url("web\ logo.png");
+    background-size: cover;
+    height: 450px;
+    width: 450px;
+    right: 12%;
+    top: 11%;
+    position: absolute;
+}
+.about{
+    height: 600px;
+    background-color: #232D3F;
+    border: 1.5px solid black;
+
+}
+.icon{
+    color:rgb(237, 166, 12);
+    font-size: 40px;
+    margin-left: 21%;
+    bottom: -14%;
+    position: absolute;
+}
+
+.about h1{
+    font-size: 48px;
+    color: white ;
+    padding-top: 8%;
+   margin-left: 25%;   
+}
+.image2{
+    background-image: url("vivek.jpg");
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    position: relative;
+    left: 25%;
+   border-radius: 100px;
+   margin-top: 45px;
+   margin-bottom: 20px;
+   
+    
+}
+.about h2{
+    color: white;
+    padding-left: 25%;
+    width: 50%;
+    font-weight: 600;
+}
+
+.about h3{
+    color: white;
+    padding-left: 25%;
+    width: 50%;
+    font-size: 16px;
+    padding-bottom: 15px;
+    padding-top: 5px;
+    font-weight: 400;
+}
+
+
+.about p{    
+    font-size: 15px;
+    color: white;
+    padding-top: 10px;
+padding-left: 25%;
+width: 50%;
+
+}
+.skills{
+    background-color: #232D3F;
+    height: 500px;
+}
+.skills h1{
+    font-size: 35px;
+
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 50px;
+}
+.lan{
+   height: 70%;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   padding-top: 60px;
+    
+    
+   
+}
+
+.box1{
+    height: 80%;
+    width: 23%;
+  background-color: transparent;  
+  display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.ima1{
+    
+    background-size: cover;
+    height : 250px;
+    width: 250px;
+    border-radius: 25px;
+    border: 1px solid white;
+}
+.ima1:hover{
+    background-color:white;
+    border: none;
+}
+.pro{
+    height: 600px;
+    background-color:#232D3F;
+    border: 1.5px solid white;
+}
+.pro h1{
+    color: white;
+    font-size: 45px;
+    text-align: center;
+    padding-top: 40px;
+}
+.p{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+   
+}
+.pro1{
+    height: 250px;
+    width: 320px;
+    background-size: cover;
+    display: flex;
+    align-items: end;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    border-radius: 25px;
+}
+.pr1{
+    
+    height: 40px;
+    width:320px ;
+background-color:black;
+border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px;
+   
+}
+.pr1 p{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+.pro1:hover{
+    border: 1.5px solid white;
+    border-radius: 25px;
+}
+.pr1:hover{
+border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px;
+}
+.foot{
+    height: 50px;
+    background-color: #0F0F0F;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.profiles i {
+    color:rgb(237, 166, 12);
+    font-size: 25px;
+    padding-left: 15px;
+    
+}
+.profiles i:hover{
+    font-size: 30px;
+}
+.foot p{
+    color: white;
+    padding-left:5px;
+    
+}
+.copy-logo{
+    color: white;
+    padding-left: 5px;
+    
+}
+
+
